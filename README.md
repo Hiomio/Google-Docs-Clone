@@ -72,7 +72,7 @@ Your app should now be running at [http://localhost:3000](http://localhost:3000)
 
 ## 👨‍💻 Author
 
-* Abdul Rehman – [LinkedIn](https://www.linkedin.com/in/rehman-nry/)
+* Kaluri Himabindhu – [LinkedIn](https://www.linkedin.com/in/kaluri-himabindhu-9378b927a/)
 
 ---
 
